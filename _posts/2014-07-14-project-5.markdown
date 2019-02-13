@@ -1,15 +1,14 @@
 ---
-title: Startup Framework
-subtitle: Website Design
+title: Quiz Me
+subtitle: Amazon Alexa Skill
 layout: default
 modal-id: 5
-date: 2014-07-14
+date: Nov 2018
 img: startup-framework.png
 thumbnail: startup-framework-thumbnail.png
-alt: image-alt
-project-date: April 2014
+alt: Quiz Me
+project-date: Nov 2018
 client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+category: Amazon Alexa Skill
+description: A simple trivia quiz game for Alex devices. Consists questions regarding general affairs, music, hollywood. Users are scored out of 5 questions that are asked randomly by the Alexa.
 ---

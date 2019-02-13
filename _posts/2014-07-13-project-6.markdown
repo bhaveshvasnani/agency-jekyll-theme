@@ -1,15 +1,14 @@
 ---
-title: Round Icons
-subtitle: Graphic Design
+title: Image Caption Generation
+subtitle: Machine Learning
 layout: default
 modal-id: 6
-date: 2014-07-15
+date: Jul 2018 - Aug 2018
 img: roundicons.png
 thumbnail: roundicons-thumbnail.png
-alt: image-alt
-project-date: April 2014
+alt: Image Caption Generation
+project-date: Jul 2018 - Aug 2018
 client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+category: Machine Learning
+description: Applied Machine Learning algorithms on RNNs along with LSM technique to generate captions for images in a single pass. Additionally, Beam Search technique was also accomodated to further increase the efficiency of the results. The machine was trained using Flickr 8k dataset.
 ---

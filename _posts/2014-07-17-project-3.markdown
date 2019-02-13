@@ -1,0 +1,14 @@
+---
+title: Custom CPU Scheduling Algorithm
+subtitle: Operating System
+layout: default
+modal-id: 2
+date: Sep 2016 - Nov 2016
+img: escape.png
+thumbnail: escape-thumbnail.png
+alt: Custom CPU Scheduling Algorithm
+project-date: Sep 2016 - Nov 2016
+client: Start Bootstrap
+category: Algorithm and Programming
+description: Used dynamic time quantum calculated by custom formula especially developed to solve the problem of starvation in Process scheduling. The errors were calculated and the conclusions were drawn based on the performance of all the different scheduling algorithms.
+---

@@ -1,15 +1,14 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: Ezit
+subtitle: App to ease your daily tasks
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: Jun 2017 - Sep 2017
 img: dreams.png
 thumbnail: dreams-thumbnail.png
-alt: image-alt
-project-date: April 2014
+alt: Ezit
+project-date: Jun 2017 - Sep 2017
 client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+category: Android Development
+description: Designed creative application to ease the daily tasks by other users with in built user to user live chat. Used Firebase for authentication, crash reporting and realtime database.
 ---
