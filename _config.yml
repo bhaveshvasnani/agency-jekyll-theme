@@ -1,6 +1,6 @@
 url: https://bhaveshvasnani.github.io
 # url: https://y7kim.github.io
-baseurl: 
+baseurl: /
 
 # Site settings
 title: Bhavesh Vasnani
@@ -8,11 +8,12 @@ email: bhaveshvasnani197@gmail.com
 description: "Bhavesh Vasnani's Personal Webspace"
 
 
-## Team names, titles and social links
-#people:
-#- name: Kay Garland
-#  pic: 1
-#  position: Lead Designer
+# Team names, titles and social links
+people:
+- name: Microsoft Technology Associate: Software Development Fundamentals
+  pic: 1
+  position: Certification
+  link: https://www.youracclaim.com/badges/459a7267-27e7-48a2-bd49-eb4f9ab675ee
 #  social:
 #    - title: twitter
 #      url: #
@@ -20,10 +21,11 @@ description: "Bhavesh Vasnani's Personal Webspace"
 #      url: #
 #    - title: stack-overflow
 #      url: #
-#
-#- name: Larry Parker
-#  pic: 2
-#  position: Lead Marketer
+
+- name: C++ Certification
+  pic: 2
+  position: TestDome
+  link: https://www.testdome.com/cert/as84jk1b65
 #  social:
 #    - title: twitter
 #      url: #
@@ -31,10 +33,83 @@ description: "Bhavesh Vasnani's Personal Webspace"
 #      url: #
 #    - title: linkedin
 #      url: #
-#
-#- name: Diana Petersen
-#  pic: 3
-#  position: Lead Developer
+
+- name: Machine Learning
+  pic: 3
+  position: Coursera (Stanford University)
+  link: https://www.coursera.org/account/accomplishments/certificate/5T5QWGKD63G3
+#  social:
+#    - title: twitter
+#      url: #
+#    - title: facebook
+#      url: #
+#    - title: google-plus
+#      url: #
+
+- name: Cryptography
+  pic: 4
+  position: Coursera (University of Maryland)
+  link: https://www.coursera.org/account/accomplishments/certificate/DB7ARW6CHQKT
+#  social:
+#    - title: twitter
+#      url: #
+#    - title: facebook
+#      url: #
+#    - title: google-plus
+#      url: #
+
+- name: Distributed Programming in Java
+  pic: 5
+  position: Coursera (Rice University)
+  link: https://www.coursera.org/account/accomplishments/certificate/6XNVMZFANKEN
+#  social:
+#    - title: twitter
+#      url: #
+#    - title: facebook
+#      url: #
+#    - title: google-plus
+#      url: #
+
+- name: Setup ELK Stack
+  pic: 6
+  position: Medium
+  link: 
+#  social:
+#    - title: twitter
+#      url: #
+#    - title: facebook
+#      url: #
+#    - title: google-plus
+#      url: #
+
+- name: Setup Terraform Kubernetes Provider Infrastructure
+  pic: 7
+  position: Medium
+  link: 
+#  social:
+#    - title: twitter
+#      url: #
+#    - title: facebook
+#      url: #
+#    - title: google-plus
+#      url: #
+
+- name: Google DevFest
+  pic: 8
+  position: Hackathon
+  link: https://drive.google.com/file/d/1o1HxfcYfUuLU7gzawh_LdGVvRvqBxUrG/view
+#  social:
+#    - title: twitter
+#      url: #
+#    - title: facebook
+#      url: #
+#    - title: google-plus
+#      url: #
+
+- name: IOS App Development
+  pic: 9
+  position: Workshop
+  link: https://drive.google.com/file/d/0BwxLqymyrm3ZbjhDQzRtaHZNMkE/view
 #  social:
 #    - title: twitter
 #      url: #
