@@ -4,8 +4,8 @@ subtitle: Machine Learning
 layout: default
 modal-id: 6
 date: Jul 2018 - Aug 2018
-img: image.png
-thumbnail: image.png
+img: caption.png
+thumbnail: caption.png
 alt: Image Caption Generation
 project-date: Jul 2018 - Aug 2018
 category: Machine Learning
