@@ -4,11 +4,10 @@ subtitle: Data Structure
 layout: default
 modal-id: 3
 date: Feb 2016 - May 2016
-img: golden.png
-thumbnail: golden-thumbnail.png
+img: trie.png
+thumbnail: trie.png
 alt: Trie based Language Transalation
 project-date: April 2014
-client: Start Bootstrap
 category: Data Structures and Algorithms
 description: Made a simple and time complexity effective translation using trie. It was implemented for a very small database of words for English to French translation along with Auto Complete functionality of trie as well for both French and English.
 ---

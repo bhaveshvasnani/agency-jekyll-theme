@@ -4,11 +4,10 @@ subtitle: Instant health solutions
 layout: default
 modal-id: 4
 date: Apr 2019 - May 2019
-img: treehouse.png
-thumbnail: treehouse-thumbnail.png
+img: yoga4all.png
+thumbnail: yoga4all.png
 alt: image-alt
 project-date: Apr 2019 - May 2019
-client: Start Bootstrap
 category: Website Development
 description: An website to connect patients directly to the Yoga preachers for instant solutions to their secific problems instantly. Separate pportal for yoga teachers to add more solutions to the database for people to access.
 ---

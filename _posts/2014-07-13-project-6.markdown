@@ -4,11 +4,10 @@ subtitle: Machine Learning
 layout: default
 modal-id: 6
 date: Jul 2018 - Aug 2018
-img: roundicons.png
-thumbnail: roundicons-thumbnail.png
+img: image.png
+thumbnail: image.png
 alt: Image Caption Generation
 project-date: Jul 2018 - Aug 2018
-client: Start Bootstrap
 category: Machine Learning
 description: Applied Machine Learning algorithms on RNNs along with LSM technique to generate captions for images in a single pass. Additionally, Beam Search technique was also accomodated to further increase the efficiency of the results. The machine was trained using Flickr 8k dataset.
 ---

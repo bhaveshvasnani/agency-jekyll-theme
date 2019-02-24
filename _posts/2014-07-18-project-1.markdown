@@ -4,11 +4,10 @@ subtitle: App to ease your daily tasks
 layout: default
 modal-id: 1
 date: Jun 2017 - Sep 2017
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: ezit.png
+thumbnail: ezit.png
 alt: Ezit
 project-date: Jun 2017 - Sep 2017
-client: Start Bootstrap
 category: Android Development
 description: Designed creative application to ease the daily tasks by other users with in built user to user live chat. Used Firebase for authentication, crash reporting and realtime database.
 ---
