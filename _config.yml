@@ -12,7 +12,7 @@ description: "Bhavesh Vasnani's Personal Webspace"
 people:
 - name: "Microsoft Technology Associate: Software Development Fundamentals"
   pic: 1
-  position: Certification
+  position: Microsoft Certification
   link: https://www.youracclaim.com/badges/459a7267-27e7-48a2-bd49-eb4f9ab675ee
 #  social:
 #    - title: twitter
@@ -24,7 +24,7 @@ people:
 
 - name: C++ Certification
   pic: 2
-  position: TestDome
+  position: TestDome Certification
   link: https://www.testdome.com/cert/as84jk1b65
 #  social:
 #    - title: twitter
@@ -36,7 +36,7 @@ people:
 
 - name: Machine Learning
   pic: 3
-  position: Coursera (Stanford University)
+  position: Coursera (Stanford University) Certification
   link: https://www.coursera.org/account/accomplishments/certificate/5T5QWGKD63G3
 #  social:
 #    - title: twitter
@@ -48,7 +48,7 @@ people:
 
 - name: Cryptography
   pic: 4
-  position: Coursera (University of Maryland)
+  position: Coursera (University of Maryland) Certification
   link: https://www.coursera.org/account/accomplishments/certificate/DB7ARW6CHQKT
 #  social:
 #    - title: twitter
@@ -60,7 +60,7 @@ people:
 
 - name: Distributed Programming in Java
   pic: 5
-  position: Coursera (Rice University)
+  position: Coursera (Rice University) Certification
   link: https://www.coursera.org/account/accomplishments/certificate/6XNVMZFANKEN
 #  social:
 #    - title: twitter
@@ -70,10 +70,10 @@ people:
 #    - title: google-plus
 #      url: #
 
-- name: Setup ELK Stack
+- name: Setup ELK Stack for Centralized Logging
   pic: 6
-  position: Medium
-  link: 
+  position: Medium Story
+  link: https://medium.com/@bhaveshvasnani197/setup-elk-stack-with-filebeat-and-curator-for-logging-in-scala-spring-projects-aa3c03e066af
 #  social:
 #    - title: twitter
 #      url: #
@@ -82,10 +82,10 @@ people:
 #    - title: google-plus
 #      url: #
 
-- name: Setup Terraform Kubernetes Provider Infrastructure
+- name: Setup Terraform with Kubernetes Provider
   pic: 7
-  position: Medium
-  link: 
+  position: Medium Story
+  link: https://medium.com/@bhaveshvasnani197/how-to-setup-terraform-with-kubernetes-provider-356d0778e771
 #  social:
 #    - title: twitter
 #      url: #
