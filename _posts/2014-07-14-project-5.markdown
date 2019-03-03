@@ -5,7 +5,7 @@ layout: default
 modal-id: 5
 date: Nov 2018
 img: quizme.png
-thumbnail: quizme.png
+thumbnail: quizme_thumbnail.png
 alt: Quiz Me
 project-date: Nov 2018
 category: Amazon Alexa Skill

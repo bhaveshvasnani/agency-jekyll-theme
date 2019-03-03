@@ -5,7 +5,7 @@ layout: default
 modal-id: 2
 date: Sep 2016 - Nov 2016
 img: cpu.png
-thumbnail: cpu.png
+thumbnail: cpu_thumbnail.png
 alt: Custom CPU Scheduling Algorithm
 project-date: Sep 2016 - Nov 2016
 category: Algorithm and Programming

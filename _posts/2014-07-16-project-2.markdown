@@ -5,7 +5,7 @@ layout: default
 modal-id: 3
 date: Feb 2016 - May 2016
 img: trie.png
-thumbnail: trie.png
+thumbnail: trie_thumbnail.png
 alt: Trie based Language Transalation
 project-date: April 2014
 category: Data Structures and Algorithms

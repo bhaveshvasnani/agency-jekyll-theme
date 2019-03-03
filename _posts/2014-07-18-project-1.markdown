@@ -5,7 +5,7 @@ layout: default
 modal-id: 1
 date: Jun 2017 - Sep 2017
 img: ezit.png
-thumbnail: ezit.png
+thumbnail: ezit_thumbnail.png
 alt: Ezit
 project-date: Jun 2017 - Sep 2017
 category: Android Development

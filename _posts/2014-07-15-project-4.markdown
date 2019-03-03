@@ -5,7 +5,7 @@ layout: default
 modal-id: 4
 date: Apr 2019 - May 2019
 img: yoga4all.png
-thumbnail: yoga4all.png
+thumbnail: yoga4all_thumbnail.png
 alt: image-alt
 project-date: Apr 2019 - May 2019
 category: Website Development
