@@ -2,7 +2,7 @@
 title: LSTM-Beam Search Image Caption Generation
 subtitle: Machine Learning
 layout: default
-modal-id: 6
+modal-id: 1
 date: Jul 2018 - Aug 2018
 img: caption.png
 thumbnail: caption_thumbnail.png
