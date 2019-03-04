@@ -10,7 +10,7 @@ description: "Bhavesh Vasnani's Personal Webspace"
 
 # Team names, titles and social links
 people:
-- name: "MTA Certification"
+- name: MTA Certification
   pic: 1
   position: Microsoft Certification
   link: https://www.youracclaim.com/badges/459a7267-27e7-48a2-bd49-eb4f9ab675ee
@@ -38,30 +38,6 @@ people:
   pic: 3
   position: Coursera (Stanford University) Certification
   link: https://www.coursera.org/account/accomplishments/certificate/5T5QWGKD63G3
-#  social:
-#    - title: twitter
-#      url: #
-#    - title: facebook
-#      url: #
-#    - title: google-plus
-#      url: #
-
-- name: Cryptography
-  pic: 4
-  position: Coursera (University of Maryland) Certification
-  link: https://www.coursera.org/account/accomplishments/certificate/DB7ARW6CHQKT
-#  social:
-#    - title: twitter
-#      url: #
-#    - title: facebook
-#      url: #
-#    - title: google-plus
-#      url: #
-
-- name: Distributed Programming in Java
-  pic: 5
-  position: Coursera (Rice University) Certification
-  link: https://www.coursera.org/account/accomplishments/certificate/6XNVMZFANKEN
 #  social:
 #    - title: twitter
 #      url: #
@@ -110,6 +86,30 @@ people:
   pic: 9
   position: Workshop
   link: https://drive.google.com/file/d/0BwxLqymyrm3ZbjhDQzRtaHZNMkE/view
+#  social:
+#    - title: twitter
+#      url: #
+#    - title: facebook
+#      url: #
+#    - title: google-plus
+#      url: #
+
+- name: Cryptography
+  pic: 4
+  position: Coursera (University of Maryland) Certification
+  link: https://www.coursera.org/account/accomplishments/certificate/DB7ARW6CHQKT
+#  social:
+#    - title: twitter
+#      url: #
+#    - title: facebook
+#      url: #
+#    - title: google-plus
+#      url: #
+
+- name: Distributed Programming-Java
+  pic: 5
+  position: Coursera (Rice University) Certification
+  link: https://www.coursera.org/account/accomplishments/certificate/6XNVMZFANKEN
 #  social:
 #    - title: twitter
 #      url: #
