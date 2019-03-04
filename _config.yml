@@ -70,10 +70,10 @@ people:
 #    - title: google-plus
 #      url: #
 
-- name: Google DevFest
-  pic: 8
-  position: Hackathon
-  link: https://drive.google.com/file/d/1o1HxfcYfUuLU7gzawh_LdGVvRvqBxUrG/view
+- name: Distributed Programming in Java
+  pic: 5
+  position: Coursera (Rice University) Certification
+  link: https://www.coursera.org/account/accomplishments/certificate/6XNVMZFANKEN
 #  social:
 #    - title: twitter
 #      url: #
@@ -106,10 +106,10 @@ people:
 #    - title: google-plus
 #      url: #
 
-- name: Distributed Programming-Java
-  pic: 5
-  position: Coursera (Rice University) Certification
-  link: https://www.coursera.org/account/accomplishments/certificate/6XNVMZFANKEN
+- name: Google DevFest
+  pic: 8
+  position: Hackathon
+  link: https://drive.google.com/file/d/1o1HxfcYfUuLU7gzawh_LdGVvRvqBxUrG/view
 #  social:
 #    - title: twitter
 #      url: #
