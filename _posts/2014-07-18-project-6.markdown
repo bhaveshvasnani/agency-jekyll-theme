@@ -1,5 +1,5 @@
 ---
-title: LSTM-Beam Search Image Caption Generation
+title: Image Caption Generator
 subtitle: Machine Learning
 layout: default
 modal-id: 1
