@@ -1,13 +1,13 @@
 ---
-title: LSTM-Beam Search Image Caption Generation
-subtitle: Machine Learning
+title: Ezit
+subtitle: App to ease your daily tasks
 layout: default
 modal-id: 1
-date: Jul 2018 - Aug 2018
-img: caption.png
-thumbnail: caption_thumbnail.png
-alt: Image Caption Generation
-project-date: Jul 2018 - Aug 2018
-category: Machine Learning
-description: Applied Machine Learning algorithms on RNNs along with LSM technique to generate captions for images in a single pass. Additionally, Beam Search technique was also accomodated to further increase the efficiency of the results. The machine was trained using Flickr 8k dataset.
+date: Jun 2017 - Sep 2017
+img: ezit.png
+thumbnail: ezit_thumbnail.png
+alt: Ezit
+project-date: Jun 2017 - Sep 2017
+category: Android Development
+description: Designed creative application to ease the daily tasks by other users with in built user to user live chat. Used Firebase for authentication, crash reporting and realtime database.
 ---
